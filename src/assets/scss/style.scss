@@ -1,0 +1,13 @@
+// 모든 scss 스타일 속성들을 모아서 구성한다.
+@charset "UTF-8";
+
+@import "setting/font";
+@import "setting/vars";
+@import "setting/reset";
+@import "setting/mixin";
+
+@import "section/container";
+@import "section/header";
+@import "section/footer";
+
+@import "section/mobileStart";
